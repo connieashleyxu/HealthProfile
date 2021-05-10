@@ -1,2 +1,2 @@
 # HealthProfile
-ITP265 Homework 1
+USC's ITP265 Object-Oriented Programming Java HW1
